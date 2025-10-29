@@ -2,6 +2,11 @@
 
 Instalador automatizado para o **BetaCraft Launcher** — desenvolvido para baixar, instalar e configurar rapidamente o launcher, além de garantir que seu computador tenha **Java 8** instalado corretamente para rodar o programa.
 
+## Importante!
+
+O virustotal gera um falso positivo: [Betacraft+Java8](https://www.virustotal.com/gui/file/21c47774c647fcc682a103681938ff99a329950c401fc9c196994d8f52828568/detection)
+Caso você seja paranóico, baixe o launcher no site oficial do [Betacraft](https://betacraft.uk/) e instale o [Java 8](https://www.java.com/en/download/manual.jsp) manualmente. O instalador apenas facilita o processo, mas você não é obrigado de forma alguma a usar especificamente ele para jogar no servidor.
+
 ## Como funciona
 
 - **Checagem automática de Java 8:** O script identifica se o Java 8 está instalado no seu sistema.
