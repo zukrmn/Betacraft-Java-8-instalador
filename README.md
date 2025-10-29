@@ -33,7 +33,7 @@ O virustotal gera um falso positivo: [Betacraft+Java8](https://www.virustotal.co
 ## Como usar
 
 1. **Baixe** o instalador/script deste repositório.
-2. **Execute** o instalador normalmente (no Windows, pode ser .bat/.cmd/.exe; no Linux, .sh; no Mac, terminal).
+2. **Execute** o instalador normalmente.
 3. O script fará toda a checagem, download e instalação do Java 8 (se necessário) e do launcher.
 4. **Pronto!** Basta rodar o BetaCraft Launcher para começar a jogar.
 ## Remoção
